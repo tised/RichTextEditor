@@ -17,10 +17,10 @@ ext {
 
     kotlinVersion = '1.3.31'
 
-    androidCompileSdkVersion = 28
+    androidCompileSdkVersion = 30
     androidBuildToolsVersion = '28.0.3'
     androidMinSdkVersion = 15
-    androidTargetSdkVersion = 28
+    androidTargetSdkVersion = 30
 
     javaUtilsVersion = '1.0.6'
     metadataExtractorVersion = '2.11.0'
